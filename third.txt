@@ -2,3 +2,5 @@ new changes
 
 how are you??
 what are you doing?
+
+update for fast forward merge from smart git
